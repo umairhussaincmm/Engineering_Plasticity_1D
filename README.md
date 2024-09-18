@@ -21,8 +21,8 @@ Considering E=200 and defining 1000 time steps between t=0 to t=10.
 
   a) For a perfectly plastic bar, following plots are obtained:
   
-  <img src="./output/Et=0_stressVtime.png" alt="Et=0_1" width="300"/> <img src="./output/Et=0_pstrainVtime.png" alt="Et=0_2" width="300"/>
-  <img src="./output/Et=0_stressVstrain.png" alt="Et=0_3" width="300"/> <img src="./output/Et=0_energydiss.png" alt="Et=0_4" width="300"/>
+  <img src="./output/Et=0_stressVtime.png" alt="Et=0_1" width="400"/> <img src="./output/Et=0_pstrainVtime.png" alt="Et=0_2" width="400"/>
+  <img src="./output/Et=0_stressVstrain.png" alt="Et=0_3" width="400"/> <img src="./output/Et=0_energydiss.png" alt="Et=0_4" width="400"/>
 
   b) For a bar with kinematic hardening, having tangent modulus $E_t$ = 0.2E, we derive the kinematic hardening coefficient, K=0.25E. Thus following plots are obtained:
   
