@@ -9,7 +9,9 @@ function of number of cycles. Do this up to time t = 10 units and for the follow
 cases.
 
   a) Elastic perfectly plastic bar with Young’s modulus E and yield strength σy0.
+  
   b) Elasto-plastic bar with linear kinematic hardening: Young’s modulus E, yield stress $\sigma_{y0}$ and tangent modulus E$_t$ = 0.2E in the plastic regime.
+  
   c) Elasto-plastic bar with linear isotropic hardening: Young’s modulus E and yield strength $\sigma_{y}$ = $\sigma_{y0}$ + 0.2Es, where s is the plastic arc length whose evolution is given by the differential equation $\dot{s}$ = |$\dost{\epsilon^p}$|.
 
 Choose any suitable value for E and assume $\sigma_{y0}$ = 10−3E.
