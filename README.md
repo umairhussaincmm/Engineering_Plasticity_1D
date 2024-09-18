@@ -26,10 +26,10 @@ Considering E=200 and defining 1000 time steps between t=0 to t=10.
 
   b) For a bar with kinematic hardening, having tangent modulus $E_t$ = 0.2E, we derive the kinematic hardening coefficient, K=0.25E. Thus following plots are obtained:
   
-  <img src="./output/Et=0.2Kinematic_stressVtime.png" alt="Et=0_1" width="500"/> <img src="./output/Et=0.2Kinematic_pstrainVtime.png" alt="Et=0_2" width="500"/>
-  <img src="./output/Et=0.2Kinematic_stressVstrain.png" alt="Et=0_3" width="500"/> <img src="./output/Et=0.2Kinematic_energydiss.png" alt="Et=0_4" width="500"/>
+  <img src="./output/Et=0.2Kinematic_stressVtime.png" alt="Et=0_1" width="400"/> <img src="./output/Et=0.2Kinematic_pstrainVtime.png" alt="Et=0_2" width="400"/>
+  <img src="./output/Et=0.2Kinematic_stressVstrain.png" alt="Et=0_3" width="400"/> <img src="./output/Et=0.2Kinematic_energydiss.png" alt="Et=0_4" width="400"/>
   
   c) For a bar with linear isotropic hardening, following plots are obtained:
   
-  <img src="./output/Isotropic_stressVtime.png" alt="Et=0_1" width="500"/> <img src="./output/Isotropic_pstrainVtime.png" alt="Et=0_2" width="500"/>
-  <img src="./output/Isotropic_stressVstrain.png" alt="Et=0_3" width="500"/> <img src="./output/Isotropic_energydiss.png" alt="Et=0_4" width="500"/>
+  <img src="./output/Isotropic_stressVtime.png" alt="Et=0_1" width="400"/> <img src="./output/Isotropic_pstrainVtime.png" alt="Et=0_2" width="400"/>
+  <img src="./output/Isotropic_stressVstrain.png" alt="Et=0_3" width="400"/> <img src="./output/Isotropic_energydiss.png" alt="Et=0_4" width="400"/>
