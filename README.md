@@ -14,4 +14,4 @@ cases.
   
   c) Elasto-plastic bar with linear isotropic hardening: Young’s modulus E and yield strength $\sigma_{y}$ = $\sigma_{y0}$ + 0.2Es, where s is the plastic arc length whose evolution is given by the differential equation $\dot{s}$ = |$\dost{\epsilon^p}$|.
 
-Choose any suitable value for E and assume $\sigma_{y0}$ = 10−3E.
+Choose any suitable value for E and assume $\sigma_{y0}$ = 10$^{−3}$E.
