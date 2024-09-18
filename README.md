@@ -1,7 +1,7 @@
 # Engineering_Plasticity_1D
 
 Consider a prismatic elasto-plastic bar subjected to cyclic axial loading. The axial
-strain in the bar is given by $\epsilom$ = 0.002 sin 2πt. The plastic strain $\epsilon^p$ in the bar is
+strain in the bar is given by $\epsilon$ = 0.002 sin 2πt. The plastic strain $\epsilon^p$ in the bar is
 zero initially. Use the return mapping algorithm discussed in class to compute and
 plot: (i) the stress σ in the bar as a function of time, (ii) plastic strain as a function
 of time, (iii) stress as a function of strain and (iv) energy dissipated per cycle as a
